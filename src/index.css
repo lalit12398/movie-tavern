@@ -104,6 +104,10 @@ main {
   flex-wrap: wrap;
 }
 
+.align-item-center {
+  align-items: center;
+}
+
 .logo {
   width: 100px;
 }
